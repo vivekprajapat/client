@@ -1,4 +1,4 @@
-
+// It is app.js file.
 
 import React from "react";
 
